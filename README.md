@@ -39,7 +39,7 @@ Shabdamitra/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/Shabdamitra.git
+git clone https://github.com/HarshitMishra55/Shabdamitra.git
 cd Shabdamitra
 
 ### 2. Create a Virtual Environment (Recommended)
